@@ -1,0 +1,21 @@
+# editors
+.idea
+.vscode
+
+# Ignoring any environment files
+.env.*
+
+# Ignoring sensitive codeship files
+codeship.aes
+codeship.env
+codeship.arg
+
+# Output of the go coverage tool
+cover.out
+coverage.out
+coverage.txt
+
+# Output of the functional test
+junit.xml
+
+*.swp
